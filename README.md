@@ -1,8 +1,8 @@
-# Unix-Shell Workshop
+# Version Control with Git
 
 UCI Libraries
 
-[date]
+[date & date]
 
 [time]
 
@@ -10,7 +10,7 @@ Instructors: Danielle Kane, Laura Smart
 
 <b><a href="https://www.eventbrite.com/e/uci-libraries-intro-to-unix-shell-tickets-42326993176">REGISTER HERE</a></b>
 
-General Information: The Unix shell has been around longer than most of its users have been alive. It has survived so long because it’s a power tool that allows people to do complex things with just a few keystrokes. More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again. Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including “high-performance computing” supercomputers). These lessons will start you on a path towards using these resources effectively.
+General Information: Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.
 
 Who: The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
 
@@ -38,61 +38,50 @@ Schedule:
 10:45 	Unix Shell, con't
 13:00 	
 
-Syllabus: The Unix Shell
+Syllabus: Version Control with Git
 
-1. Files and directories
-2. History and tab completion
-3. Pipes and redirection
-4. Looping over files
-5. Creating and running shell scripts
-6. Finding things
+1. Automated Version Control
+2. Setting Up Git
+3. Creating a Repository
+4. Tracking Changes
+5. Exploring History
+6. Ignoring Things 
+7. Remotes in GitHub
+8. Collaborating 
+9. Conflicts
+10. Open Science
+11. Licensing
+12. Citation
+13. Hosting
  
 Setup
 
 You will need access to the software described below. In addition, you will need an up-to-date web browser.
 
-We maintain a list of common issues that occur during installation as a reference for instructors that may be useful on the Configuration Problems and Solutions wiki page.
+<b>Git</b>
 
-The Bash Shell - Bash is a commonly-used shell that gives you the power to do simple tasks more quickly.
+Git is a version control system that lets you track who made changes to what when and has options for easily updating a shared or public version of your code on github.com. You will need a supported web browser (current versions of Chrome, Firefox or Safari, or Internet Explorer version 9 or above).
+
+You will need an account at github.com for parts of the Git lesson. Basic GitHub accounts are free. We encourage you to create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.
 
 Windows
-Video Tutorial
 
-    Download the Git for Windows installer.
-    Run the installer and follow the steps bellow:
-        Click on "Next".
-        Click on "Next".
-        Keep "Use Git from the Windows Command Prompt" selected and click on "Next". If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.
-        Click on "Next".
-        Keep "Checkout Windows-style, commit Unix-style line endings" selected and click on "Next".
-        Keep "Use Windows' default console window" selected and click on "Next".
-        Click on "Install".
-        Click on "Finish".
-    If your "HOME" environment variable is not set (or you don't know what this is):
-        Open command prompt (Open Start Menu then type cmd and press [Enter])
-        Type the following line into the command prompt window exactly as shown:
+Git should be installed on your computer as part of your Bash install (described above).
 
-        setx HOME "%USERPROFILE%"
-        Press [Enter], you should see SUCCESS: Specified value was saved.
-        Quit command prompt by typing exit then pressing [Enter]
+macOS
 
-This will provide you with both Git and Bash in the Git Bash program.
-
-Mac OS X
-
-The default shell in all versions of Mac OS X is Bash, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
+For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this list. After installing Git, there will not be anything in your /Applications folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" available here.
 
 Linux
 
-The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
+If Git is not already available on your machine you can try to install it via your distro's package manager. For Debian/Ubuntu run sudo apt-get install git and for Fedora run sudo dnf install git.
 
-Text Editor
+<b>Text Editor</b>
 
-When you're writing code, it's nice to have a text editor that is optimized for writing code, with features like automatic color-coding of key words. The default text editor on Mac OS X and Linux is usually set to Vim, which is not famous for being intuitive. if you accidentally find yourself stuck in it, try typing the escape key, followed by :q! (colon, lower-case 'q', exclamation mark), then hitting Return to return to the shell.
+When you're writing code, it's nice to have a text editor that is optimized for writing code, with features like automatic color-coding of key words. The default text editor on macOS and Linux is usually set to Vim, which is not famous for being intuitive. if you accidentally find yourself stuck in it, try typing the escape key, followed by :q! (colon, lower-case 'q', exclamation mark), then hitting Return to return to the shell.
 
-Windows: nano is a basic editor and the default that instructors use in the workshop. To install it, download the Library Carpentry    Windows installer and double click on the file to run it. This installer requires an active internet connection. Other editors that you can use are Notepad++ or Sublime Text. Be aware that you must add its installation directory to your system path. Please ask your instructor to help you do this.
+Windows:  nano is a basic editor and the default that instructors use in the workshop. To install it, download the Software Carpentry Windows installer and double click on the file to run it. This installer requires an active internet connection. Other editors that you can use are Notepad++ or Sublime Text. Be aware that you must add its installation directory to your system path. Please ask your instructor to help you do this.
 
-Mac OS X: nano is a basic editor and the default that instructors use in the workshop. See the Git installation video tutorial for an example on how to open nano. It should be pre-installed. Other editors that you can use are Text Wrangler or Sublime Text.
+macOS: nano is a basic editor and the default that instructors use in the workshop. See the Git installation video tutorial for an example on how to open nano. It should be pre-installed. Other editors that you can use are Text Wrangler or Sublime Text.
 
 Linux: nano is a basic editor and the default that instructors use in the workshop. It should be pre-installed. Other editors that you can use are Gedit, Kate or Sublime Text.
-
