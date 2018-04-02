@@ -6,7 +6,7 @@ Tuesday 5/15/18 & Thursday 5/17/18
 
 1:00 - 2:30 PM
 
-Instructors: Danielle Kane
+Instructor(s): Danielle Kane
 
 <b><a href="https://www.eventbrite.com/e/uci-libraries-intro-to-unix-shell-tickets-42326993176">REGISTER HERE</a></b>
 
