@@ -8,7 +8,9 @@ Tuesday 5/15/18 & Thursday 5/17/18
 
 Instructor(s): Danielle Kane
 
-<b><a href="https://www.eventbrite.com/e/uci-libraries-intro-to-unix-shell-tickets-42326993176">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/version-control-with-git-tickets-44774005255">REGISTER HERE</a></b>
+
+**Please note that this workshop is being held over 2 days! By registering for the workshop you are registering for both days.**
 
 General Information: Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.
 
