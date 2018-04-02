@@ -18,7 +18,7 @@ Who: The course is aimed at graduate students and other researchers, including u
 
 Where: Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
-When: May 15, 2018 & May 17, 2018. <a target="_blank" href="https://calendar.google.com/calendar/r/eventedit/MWRzMnFiMms3NnB1ZnFzNXFmcW5idDIxOWUga2FuZWRAdWNpLmVkdQ?amp;tmeid=NmM2Z2o0MjcyZjN0ZDRvc2R1ZXViZTdxc2kga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu%22%3E%3Cimg%20border%3D%220%22%20src%3D%22https%3A%2F%2Fwww.google.com%2Fcalendar%2Fimages%2Fext%2Fgc_button1_en.gif&sf=true&output=xml"></a>Add to your Google Calendar</a>.
+When: May 15, 2018 & May 17, 2018. <a target="_blank" href="https://calendar.google.com/calendar/r/eventedit/MWRzMnFiMms3NnB1ZnFzNXFmcW5idDIxOWUga2FuZWRAdWNpLmVkdQ?amp;tmeid=NmM2Z2o0MjcyZjN0ZDRvc2R1ZXViZTdxc2kga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu%22%3E%3Cimg%20border%3D%220%22%20src%3D%22https%3A%2F%2Fwww.google.com%2Fcalendar%2Fimages%2Fext%2Fgc_button1_en.gif&sf=true&output=xm"></a>Add to your Google Calendar</a>.
 
 Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
