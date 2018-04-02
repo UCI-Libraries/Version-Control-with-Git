@@ -14,7 +14,7 @@ General Information: Version control is the lab notebook of the digital world: i
 
 Who: The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
 
-Where: Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/?mlat=33.972643&mlon=%20-117.327482&zoom=16OpenStreetMap">OpenStreetMap</a> or <a href="https://maps.google.com/maps?q=33.972643,%20-117.327482">Google Maps</a>.
+Where: Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
 When: May 15, 2018 & May 17, 2018. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NmM2Z2o0MjcyZjN0ZDRvc2R1ZXViZTdxc2kga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>Add to your Google Calendar</a>.
 
