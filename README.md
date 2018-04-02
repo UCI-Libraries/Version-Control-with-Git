@@ -43,7 +43,7 @@ Syllabus: 05/17/18 1:00 - 2:30 PM
 3. Collaborating 
 4. Conflicts
 
-Setup
+**Setup**
 
 You will need access to the software described below. In addition, you will need an up-to-date web browser.
 
@@ -73,13 +73,9 @@ Bash is a commonly-used shell that gives you the power to do simple tasks more q
 
 This will provide you with both Git and Bash in the Git Bash program. 
 
-Mac OS X
+Mac OS X: The default shell in all versions of Mac OS X is Bash, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop. 
 
-The default shell in all versions of Mac OS X is Bash, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop. 
-
-Linux
-
-The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything. 
+Linux: The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything. 
 
 <b>Git</b>
 
@@ -97,7 +93,7 @@ Linux: If Git is not already available on your machine you can try to install it
 
 When you're writing code, it's nice to have a text editor that is optimized for writing code, with features like automatic color-coding of key words. The default text editor on macOS and Linux is usually set to Vim, which is not famous for being intuitive. if you accidentally find yourself stuck in it, try typing the escape key, followed by :q! (colon, lower-case 'q', exclamation mark), then hitting Return to return to the shell.
 
-Windows:  nano is a basic editor and the default that instructors use in the workshop. To install it, download the Software Carpentry Windows installer and double click on the file to run it. This installer requires an active internet connection. Other editors that you can use are Notepad++ or Sublime Text. Be aware that you must add its installation directory to your system path. Please ask your instructor to help you do this.
+Windows:  nano is a basic editor and the default that instructors use in the workshop. To install it, download the Software Carpentry Windows installer and double click on the file to run it. This installer requires an active internet connection. Other editors that you can use are Notepad++ or Sublime Text. Be aware that you must add its installation directory to your system path. 
 
 macOS: nano is a basic editor and the default that instructors use in the workshop. See the Git installation video tutorial for an example on how to open nano. It should be pre-installed. Other editors that you can use are Text Wrangler or Sublime Text.
 
