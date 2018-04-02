@@ -38,14 +38,16 @@ Syllabus: 05/15/18 1:00 - 2:30 PM
 5. Exploring History
 
 Syllabus: 05/17/18 1:00 - 2:30 PM
-6. Ignoring Things 
-7. Remotes in GitHub
-8. Collaborating 
-9. Conflicts
+1. Ignoring Things 
+2. Remotes in GitHub
+3. Collaborating 
+4. Conflicts
 
 Setup
 
 You will need access to the software described below. In addition, you will need an up-to-date web browser.
+
+In this lesson we use Git from the Unix Shell.  Some previous experience with the shell is expected, but isn't mandatory.
 
 **The Bash Shell**
 
