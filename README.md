@@ -12,26 +12,26 @@ Instructor(s): Danielle Kane
 
 **Please note that this workshop is being held over 2 days! By registering for the workshop you are registering for both days.**
 
-General Information: Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.
+**General Information:** Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.
 
-Who: The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
+**Who:** The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
 
-Where: Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
+**Where:** Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
-When: May 15, 2018 & May 17, 2018. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MWRzMnFiMms3NnB1ZnFzNXFmcW5idDIxOWUga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>Add to your Google Calendar</a>.
+**When:** May 15, 2018 & May 17, 2018. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MWRzMnFiMms3NnB1ZnFzNXFmcW5idDIxOWUga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>Add to your Google Calendar</a>.
 
-Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
+**Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
-Accessibility: We are committed to making this workshop accessible to everybody. The workshop organisers have checked that:
+**Accessibility:** We are committed to making this workshop accessible to everybody. The workshop organisers have checked that:
 
     The room is wheelchair / scooter accessible.
     Accessible restrooms are available.
 
 Materials will be provided at the workshop and large-print handouts are available if needed by notifying the organizer in advance. If I can help making learning easier for you (e.g. sign-language interpreters, lactation facilities) please get in touch (using contact details below) and we will attempt to provide them.
 
-Contact: Please email Danielle Kane at kaned@uci.edu for more information.
+**Contact:** Please email Danielle Kane at kaned@uci.edu for more information.
 
-Syllabus: 05/15/18 1:00 - 2:30 PM
+**Syllabus: 05/15/18 1:00 - 2:30 PM**
 
 1. Automated Version Control
 2. Setting Up Git
@@ -39,7 +39,7 @@ Syllabus: 05/15/18 1:00 - 2:30 PM
 4. Tracking Changes
 5. Exploring History
 
-Syllabus: 05/17/18 1:00 - 2:30 PM
+**Syllabus: 05/17/18 1:00 - 2:30 PM**
 1. Ignoring Things 
 2. Remotes in GitHub
 3. Collaborating 
