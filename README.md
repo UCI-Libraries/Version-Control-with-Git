@@ -48,8 +48,8 @@ In this lesson we use Git from the Unix Shell.  Some previous experience with th
 **The Bash Shell**
 
 Bash is a commonly-used shell that gives you the power to do simple tasks more quickly.
-<a href="https://gitforwindows.org">Download the Git for Windows installer</a>.
 
+    <a href="https://gitforwindows.org">Download the Git for Windows installer</a>.
     Run the installer and follow the steps bellow:
         Click on "Next".
         Click on "Next".
