@@ -2,13 +2,13 @@
 
 UCI Libraries
 
-Tuesday 5/15/18 & Thursday 5/17/18
+Wednesday November 14, 2018
 
-1:00 - 2:30 PM
+1:00 - 5:00 PM
 
-Instructor(s): Danielle Kane
+Instructor(s): Danielle Kane, Mitchell Brown
 
-<b><a href="https://www.eventbrite.com/e/version-control-with-git-tickets-44774005255">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/version-control-with-git-tickets-49566916983">REGISTER HERE</a></b>
 
 **Please note that this workshop is being held over 2 days! By registering for the workshop you are registering for both days.**
 
@@ -18,7 +18,7 @@ Instructor(s): Danielle Kane
 
 **Where:** Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
-**When:** May 15, 2018 & May 17, 2018. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MWRzMnFiMms3NnB1ZnFzNXFmcW5idDIxOWUga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>Add to your Google Calendar</a>.
+**When:** November 14, 2018 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MWRzMnFiMms3NnB1ZnFzNXFmcW5idDIxOWUga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>Add to your Google Calendar</a>.
 
 **Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
@@ -31,19 +31,17 @@ Materials will be provided at the workshop and large-print handouts are availabl
 
 **Contact:** Please email Danielle Kane at kaned@uci.edu for more information.
 
-**Syllabus: 05/15/18 1:00 - 2:30 PM**
+**Syllabus:**
 
 1. Automated Version Control
 2. Setting Up Git
 3. Creating a Repository
 4. Tracking Changes
 5. Exploring History
-
-**Syllabus: 05/17/18 1:00 - 2:30 PM**
-1. Ignoring Things 
-2. Remotes in GitHub
-3. Collaborating 
-4. Conflicts
+6. Ignoring Things 
+7. Remotes in GitHub
+8. Collaborating 
+9. Conflicts
 
 **Setup**
 
