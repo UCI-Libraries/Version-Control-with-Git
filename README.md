@@ -8,8 +8,6 @@ Instructor(s): Danielle Kane, Mitchell Brown
 
 <b><a href="https://www.eventbrite.com/e/version-control-with-git-tickets-49566916983">REGISTER HERE</a></b>
 
-**Please note that this workshop is being held over 2 days! By registering for the workshop you are registering for both days.**
-
 **General Information:** Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.
 
 **Who:** The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
