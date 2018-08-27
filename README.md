@@ -1,5 +1,3 @@
-# Version Control with Git
-
 UCI Libraries
 
 Wednesday November 14, 2018
