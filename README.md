@@ -1,20 +1,22 @@
 UCI Libraries
 
-Wednesday November 14, 2018
+Wednesday February 13, 2019
 
-1:00 - 5:00 PM
+8:30 AM - 12:30 PM
 
 Instructor(s): Danielle Kane, Mitchell Brown
 
-<b><a href="https://www.eventbrite.com/e/version-control-with-git-tickets-49566916983">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/version-control-with-git-tickets-53822730235">REGISTER HERE</a></b>
+
+Please Note: You must be a UCI affiliate to register, please contact kaned@uci.edu if you are not a member of the UCI community to see if there is room before registering.
 
 **General Information:** Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.
 
 **Who:** The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
 
-**Where:** Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
+**Where:** Langson Library Rm 228. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
-**When:** November 14, 2018 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MHFxc2c1OWVpb3NvbmE0cmFjY3A1NXUwY24ga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
+**When:** February 13, 2019 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MHFxc2c1OWVpb3NvbmE0cmFjY3A1NXUwY24ga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
 
 **Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
