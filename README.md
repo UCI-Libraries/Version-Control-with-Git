@@ -1,6 +1,6 @@
 UCI Libraries
 
-Wednesday March 14, 2019
+Thursday March 14, 2019
 
 8:30 AM - 12:30 PM
 
