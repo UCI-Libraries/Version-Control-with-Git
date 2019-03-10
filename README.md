@@ -27,7 +27,7 @@ Please Note: You must be a UCI affiliate to register, please contact kaned@uci.e
 
 Materials will be provided at the workshop and large-print handouts are available if needed by notifying the organizer in advance. If I can help making learning easier for you (e.g. sign-language interpreters, lactation facilities) please get in touch (using contact details below) and we will attempt to provide them.
 
-**Contact:** Please email Danielle Kane at kaned@uci.edu for more information.
+**Contact:** Please email Digital Scholarship Services at libdss@uci.edu for more information.
 
 **Syllabus:**
 
