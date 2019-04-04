@@ -1,10 +1,10 @@
-UCI Libraries
+UCI Libraries Digital Scholarship Services
 
-Thursday March 14, 2019
+Tuesday May 28, 2019
 
-8:30 AM - 12:30 PM
+1:00 PM - 5:00 PM
 
-Instructor(s): Danielle Kane, Mitchell Brown
+Instructor(s): Mitchell Brown
 
 <b><a href="https://www.eventbrite.com/e/version-control-with-git-tickets-53822730235">REGISTER HERE</a></b>
 
@@ -16,7 +16,7 @@ Please Note: You must be a UCI affiliate to register, please contact kaned@uci.e
 
 **Where:** Langson Library Rm 228. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
-**When:** March 14, 2019 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=M3Nic2YzaGttajhncDNlOW1jNGJpYnFkN2Iga2FuZWRAdWNpLmVkdQ&tmsrc=kaned%40uci.edu">Add to your Google Calendar</a>.
+**When:** May 28, 2019 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MWVhNnAyYmxlOHBucmt0dWZmYnVmbmo1dXEga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
 
 **Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
