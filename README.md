@@ -6,7 +6,7 @@ Tuesday May 28, 2019
 
 Instructor(s): Mitchell Brown
 
-<b><a href="https://www.eventbrite.com/e/version-control-with-git-tickets-53822730235">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/version-control-with-git-tickets-60085171365">REGISTER HERE</a></b>
 
 Please Note: You must be a UCI affiliate to register, please contact kaned@uci.edu if you are not a member of the UCI community to see if there is room before registering.
 
